@@ -1,3 +1,5 @@
+**FUTURE PLATFORM FOR exchange.coinz.cloud
+
 WLOX - Open Source Cryptocurrency Exchange  
 =========
 WLOX is an open source cryptocurrency exchange that supports multiple fiat currencies.
